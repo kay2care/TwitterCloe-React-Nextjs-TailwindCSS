@@ -1,0 +1,11 @@
+https://console.firebase.google.com/u/0/project/twitter-clone-fa60a/overview
+
+https://console.firebase.google.com/u/0/project/twitter-clone-fa60a/firestore
+
+https://www.youtube.com/watch?v=5Wak0iyGCrc
+
+https://github.com/lukef7fywmrp/twitter-clone/blob/main/components/Sidebar.js
+
+https://twitter-clone-eosin.vercel.app/
+
+yarn run dev
